@@ -4,6 +4,8 @@ import { Container } from './styles';
 
 export default function Header() {
     return (
-        <div />
+        <Container>
+            <h1>Clonefy</h1>
+        </Container>
     );
 }
