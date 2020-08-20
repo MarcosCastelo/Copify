@@ -40,7 +40,7 @@ Technologies that I used to develop this project
 
 ## :computer: Getting started
 
-To start the React's frontend, run:
+To start the React app, run:
 ```bash
 npm install
 npm start
