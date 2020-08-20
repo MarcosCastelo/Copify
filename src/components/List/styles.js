@@ -4,7 +4,7 @@ export const Container = styled.div`
     padding: 0 15px;
     height: 100%;
     flex: 1;
-    opacity: ${props => props.done ? 0.4 : 1};
+    opacity: ${props => props.done ? 0.55 : 1};
 
     & + div {
         border-left: 1px solid rgba(0, 0, 0, 0.05)
@@ -25,7 +25,7 @@ export const Container = styled.div`
         button {
             width: 42px;
             height: 42px;
-            border-radius: 19px ;
+            border-radius: 15px ;
             background: #3b5bfd;
             border: 0;
             cursor: pointer;
